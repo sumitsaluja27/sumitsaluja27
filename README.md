@@ -6,7 +6,7 @@
 ---
 
 ### 🔥 **About Me**  
-- 🎵 Love **music, coding, books, and movies** (black coffee without sugar goes well with all these:-))  
+- 🎵 Love **music, coding, books, and movies** (a cup of black coffee without sugar goes well with all these☕️)  
 - 🌱 Currently learning **Python, ML & Web Development**  
 - 💡 Exploring **Open Source & GitHub Projects**  
 - ✨ Fun Fact: I work part-time with **@UpsideArrow**  
