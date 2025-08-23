@@ -15,7 +15,7 @@ I am Sumit, you can call me Sammy.
 
 ### 📫 **Let's Connect!**  
 📧 Email: [sumitsaluja.iiim@gmail.com](mailto:sumitsaluja.iiim@gmail.com)  
-🔗 Blog: [UpsideArrow](https://upsidearrow.wordpress.com/)  
+🔗 Blog: [UpsideArrow](https://medium.com/@sumitsaluja.iiim)  
 📸 Instagram: [@theupsidearrow](https://instagram.com/theupsidearrow)  
 💼 LinkedIn: [https://www.linkedin.com/in/sumitsluja/]
 
