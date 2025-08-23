@@ -2,7 +2,7 @@
 
 You can call me Sunny.
 
-**Aspiring ML Engineer** | 💻 **Self-learning Python & Full-Stack Development**  
+**Aspiring ML Engineer** | **Self-learning Python & Full-Stack Development**  
 Passionate about tech, coding, and building cool projects!  
 
 ---
