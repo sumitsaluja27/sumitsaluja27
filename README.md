@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sumit Saluja! </h1>
 
-I am Sumit, you can call me Sammy.
+You can call me Sunny.
 
 **Aspiring ML Engineer** | 💻 **Self-learning Python & Full-Stack Development**  
 Passionate about tech, coding, and building cool projects!  
