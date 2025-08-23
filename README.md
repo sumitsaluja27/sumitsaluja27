@@ -2,8 +2,8 @@
 
 You can call me Sunny.
 
-**Aspiring ML Engineer** | **Self-learning Python & Full-Stack Development**  
-Passionate about tech, coding, and building cool projects!  
+**Currently working on Automation and MCP servers** | **Self-learning a few things**  
+Passionate about how to use AI to get things done!  
 
 ---
 
